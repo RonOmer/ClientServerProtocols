@@ -1,4 +1,4 @@
-package CSprotocols;
+package CSprotocols.Ruppin;
 
 import java.io.*;
 import java.net.*;

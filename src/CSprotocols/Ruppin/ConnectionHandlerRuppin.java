@@ -1,4 +1,4 @@
-package CSprotocols;
+package CSprotocols.Ruppin;
 
 import java.net.*;
 import java.util.ArrayList;

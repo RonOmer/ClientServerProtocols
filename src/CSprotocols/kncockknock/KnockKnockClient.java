@@ -1,4 +1,4 @@
-package CSprotocols;
+package CSprotocols.kncockknock;
 
 import java.io.*;
 import java.net.*;

@@ -1,4 +1,4 @@
-package CSprotocols;
+package CSprotocols.kncockknock;
 
 
 public class KnockKnockProtocol {
